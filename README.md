@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 ![Banner](images/banner.png)
@@ -75,3 +76,7 @@ A collection of **4 professional Power BI dashboards** covering Retail Sales, St
 ## 📄 License
 
 MIT © 2025 — see [LICENSE](LICENSE)
+=======
+# PowerBI-Analytics-Portfolio
+4 professional Power BI dashboards covering Retail Sales, Student Performance, Course Recommendation, and Business Sales Analytics
+>>>>>>> 1119a96965ace0090ef3b1051626a25da075a4ab
