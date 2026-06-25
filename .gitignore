@@ -1,0 +1,51 @@
+# ──────────────────────────────────────────
+# Power BI Portfolio — .gitignore
+# ──────────────────────────────────────────
+
+# Power BI temporary / backup files
+*.pbit
+*.pbix.bak
+*.pbix~
+*.pbix.tmp
+
+# Microsoft Office temp files
+~$*.xlsx
+~$*.xls
+~$*.csv
+*.xlk
+
+# Windows system files
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python scripts & cache (used during setup only)
+*.py
+__pycache__/
+*.pyc
+*.pyo
+
+# PowerShell scripts (used during setup only)
+*.ps1
+
+# PDF source files (dashboards exported to PNG, PDFs not needed)
+*.pdf
+
+# Logs
+*.log
+
+# Node / npm (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
