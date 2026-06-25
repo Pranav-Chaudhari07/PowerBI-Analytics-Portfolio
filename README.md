@@ -26,15 +26,15 @@ A collection of **4 professional Power BI dashboards** covering Retail Sales, St
 **Dataset:** `SuperStore-Sales-DataSet.xlsx` — 5,902 rows × 23 columns
 
 ---
-
-### 🎓 2. Student Performance Analysis
-> Academic performance dashboard analyzing the effect of gender, parental education, test prep, and lunch type on scores.
+### 📈 4. Sales Analysis Dashboard
+> Business sales analytics with regional breakdown, segment profitability, shipping modes, and seasonal trends.
 
 ![Student Performance](02-Student-Performance/images/student-performance-overview.png)
 
-**Dataset:** `StudentsPerformance.csv` — 1,000 rows × 8 columns
+**Dataset:** `Sales-Report-Dataset.xlsx` — 9,995 rows × 21 columns
 
 ---
+
 
 ### 🖥️ 3. Course Recommendation System
 > EdTech analytics tracking course completions, confidence scores, user profiles, and recommendation patterns.
@@ -46,12 +46,12 @@ A collection of **4 professional Power BI dashboards** covering Retail Sales, St
 
 ---
 
-### 📈 4. Sales Analysis Dashboard
-> Business sales analytics with regional breakdown, segment profitability, shipping modes, and seasonal trends.
+### 🎓 2. Student Performance Analysis
+> Academic performance dashboard analyzing the effect of gender, parental education, test prep, and lunch type on scores.
 
 ![Sales Analysis](04-Sales-Analysis/images/sales-analysis-overview.png)
 
-**Dataset:** `Sales-Report-Dataset.xlsx` — 9,995 rows × 21 columns
+**Dataset:** `StudentsPerformance.csv` — 1,000 rows × 8 columns
 
 ---
 
